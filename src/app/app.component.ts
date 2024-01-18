@@ -8,3 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'cars';
 }
+/*
+public car: any = mockdata;
+*/ 
